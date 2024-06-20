@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "categoria":"una pareja",
+        "descripcion":"Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.",
+        "imagen":"assets/img/servicio1.jpg"
+    },
+    {
+        "id": "2",
+        "categoria":"un amigo",
+        "descripcion":"Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.",
+        "imagen":"assets/img/servicio2.jpg"
+    },
+    {
+        "id": "3",
+        "categoria":"un animal de granja",
+        "descripcion":"Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti",
+        "imagen":"assets/img/servicio3.jpg"
+    },
+    {
+        "id": "4",
+        "categoria":"una persona para un favor",
+        "descripcion":"Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.",
+        "imagen":"assets/img/servicio4.jpg"
+    },
+    {
+        "id": "5",
+        "categoria":"una persona para una cita por primera vez",
+        "descripcion":"Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.",
+        "imagen":"assets/img/servicio5.jpg"
+    },
+    {
+        "id": "6",
+        "categoria":"una persona que se encargue de tus mascotas",
+        "descripcion":"Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.",
+        "imagen":"assets/img/servicio6.jpg"
+    }
+    
+]
